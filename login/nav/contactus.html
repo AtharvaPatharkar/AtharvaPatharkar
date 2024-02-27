@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>About Us | Marriage Hall Booking System</title>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url(3.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      font-family: 'Helvetica Neue', sans-serif;
+    }
+
+    #advantages1 nav {
+      background-color: #008CBA;
+      padding: 10px;
+      align-items: top;
+      margin: 10px;
+    }
+
+    #advantages1 nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    #advantages1 nav li {
+      display: inline-block;
+      margin-right: 20px;
+    }
+
+    #advantages1 nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+    }
+
+    /* Define styles for the navigation bar */
+    #nav-bar {
+      background-color: #008CBA;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+    }
+
+    #nav-bar ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #nav-bar li {
+      margin: 0 20px;
+    }
+
+    #nav-bar a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+    }
+
+    #nav-bar img {
+      height: 50px;
+      width: auto;
+    }
+
+    /* Define styles for the main content */
+    #content {
+      margin: 50px;
+      color: #161515;
+    }
+
+    h1 {
+      font-size: 46px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 28px;
+      line-height: 1.5;
+      margin-bottom: 20px;
+    }
+
+    /* Define styles for the back button */
+    #back-button {
+            position: fixed;
+            bottom: 0px;
+            width: fit-content;
+            padding: 10px;
+            background-color: #f2f2f2;
+            color: red;
+        }
+
+    #back-button a {
+      text-decoration: none;
+    }
+
+    #back-button button {
+      padding: 10px 20px;
+      margin-right: 10px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      font-weight: bold;
+      color: #fff;
+      background-color: #007bff;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    #back-button button:hover {
+      background-color: #0062cc;
+    }
+
+    #back-button button:last-child {
+      background-color: #dc3545;
+    }
+
+    #back-button button:last-child:hover {
+      background-color: #c82333;
+    }
+  </style>
+  <script>
+    // Add a class of "active" to the current page link in the navigation
+    const links = document.querySelectorAll('#nav-bar a');
+    links.forEach(link => {
+      if (link.href === window.location.href) {
+        link.classList.add('active');
+      }
+    });
+  </script>
+</head>
+
+<body>
+  <div id="advantages1">
+    <nav>
+      <ul>
+        <li><a href="/login/index.php">Home</a></li>
+        <li><a href="aboutus.html">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contactus.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div id="content">
+
+    <h1>Contact Us</h1>
+    <p>If you have any questions or would like to book a wedding with us, please don't hesitate to contact us:</p>
+    <ul>
+      <li>Phone: 555-1234</li>
+      <li>Email: info@marriagehallbookingsystem.com</li>
+      <li>Address: 123 Main St, Dabki road, Akola</li>
+    </ul>
+  </div>
+
+  <br>
+
+  <div id="back-button">
+    <!--  <a href="/login/login_db.php">
+      <button>Login/Signup</button>
+    </a>  -->
+    <button onclick="window.history.back();">Back</button>
+  </div>
+
+</body>
+
+</html>
