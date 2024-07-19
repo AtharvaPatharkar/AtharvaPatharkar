@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Patharkar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer, Data science and Analytics from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
