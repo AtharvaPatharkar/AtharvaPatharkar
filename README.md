@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://BG.mp4" alt="Header Image">
+  <img src="https://path/to/your/header-image.jpg" alt="Header Image">
 </p>
 
 <h1 align="center">
@@ -10,9 +10,7 @@
 <!-- Introduction -->
 <p align="center">
   <a href="https://github.com/atharvapatharkar"><img src="https://img.shields.io/github/followers/atharvapatharkar?label=Followers&style=social"></a>
-
 </p>
-
 
 ## About Me
 
@@ -24,13 +22,10 @@
       </p>
     </div>
     <div style="flex: 1; text-align: right; max-width: 50%;">
-      <img src="https:/my-image.jpg" alt="Profile Image" style="border-radius: 15px; max-width: 100%; height: auto;">
+      <img src="https://path/to/your/profile-image.png" alt="Profile Image" style="border-radius: 15px; max-width: 100%; height: auto;">
     </div>
   </div>
 </p>
-
-
-
 
 <!-- Skills -->
 ## 🛠️ Technologies & Tools
@@ -121,84 +116,35 @@
     <img src="https://img.shields.io/badge/Public%20Speaking-Non%20Technical-4B9CD3?style=flat&logo=speaking&logoColor=white" alt="Public Speaking" height="40">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Interpersonal-Non%20Technical-9C27B0?style=flat&logo=interpersonal&logoColor=white" alt="Interpersonal" height="40">
+    <img src="https://img.shields.io/badge/Interpersonal%20Skills-Non%20Technical-6B8E23?style=flat&logo=skills&logoColor=white" alt="Interpersonal Skills" height="40">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Communication-Non%20Technical-00BCD4?style=flat&logo=communication&logoColor=white" alt="Communication" height="40">
+    <img src="https://img.shields.io/badge/Time%20Management-Non%20Technical-B22222?style=flat&logo=management&logoColor=white" alt="Time Management" height="40">
   </a>
 </p>
 
-
-<!-- Projects -->
-## 🚀 Projects
+## 🔥 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/atharvapatharkar/marriage-hall-booking-system" target="_blank">
-    <img src="https://img.shields.io/badge/Marriage%20Hall%20Booking%20Website-Project-FF5722?style=flat&logo=github&logoColor=white" alt="Marriage Hall Booking Website" height="40">
-  </a>
-  <br>
-  <a href="https://github.com/AtharvaPatharkar/marriage-hall-booking-system/blob/master/README.md" target="_blank">
-    <img src="https://img.shields.io/badge/Project%20Details-%E2%9C%93-4CAF50?style=flat&logo=github&logoColor=white" alt="Project Details">
-  </a>
-  <a href="https://github.com/atharvapatharkar/marriage-hall-booking-system" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Link-%E2%9C%93-007BFF?style=flat&logo=github&logoColor=white" alt="GitHub Link">
-  </a>
-  <br><br>
-  
-  <a href="https://github.com/AtharvaPatharkar/JapaWithMe.com" target="_blank">
-    <img src="https://img.shields.io/badge/Japa%20with%20Me%20Online-Project-FF5722?style=flat&logo=github&logoColor=white" alt="Japa with Me Online" height="40">
-  </a>
-  <br>
-  <a href="https://atharvapatharkar.github.io/JapaWithMe.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website%20Link-%E2%9C%93-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website Link">
-  </a>
-  <a href="https://github.com/AtharvaPatharkar/JapaWithMe.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Link-%E2%9C%93-007BFF?style=flat&logo=github&logoColor=white" alt="GitHub Link">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvapatharkar&show_icons=true&theme=radical" alt="Atharva's GitHub stats">
   </a>
 </p>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" /> </p>
+<!-- Connect with me -->
+## 🌐 Connect with me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvapatharkar&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvapatharkar&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<!-- Contact -->
-## 📫 Contact
-
-
-<p align="center">
-  <a href="mailto:argarvapatharkar6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%E2%9C%93-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
-  </a>
-  <a href="https:[//linkedin.com/in/atharvapatharkar](https://www.linkedin.com/in/atharva-patharkar-6a462b260/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%E2%9C%93-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+  <a href="https://atharvapatharkar.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-1a1a1a?style=flat&logo=About.me&logoColor=white" alt="Portfolio" height="40">
   </a>
   <a href="https://github.com/atharvapatharkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%E2%9C%93-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
+    <img src="https://img.shields.io/badge/GitHub-Profile-1a1a1a?style=flat&logo=github&logoColor=white" alt="GitHub" height="40">
   </a>
-  <a href="[https://atharvapatharkar.github.io/My-Portfolio/](https://atharvapatharkar.github.io/My-Portfolio/)" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%E2%9C%93-4B8BBE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" height="40">
+  <a href="https://www.linkedin.com/in/atharvapatharkar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-1a1a1a?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
   </a>
-  <a href="https:https://www.kaggle.com/apatharkar" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%E2%9C%93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40">
-  </a>
-  <a href="https:[//www.codechef.com/users/atharvapatharkar](https://www.codechef.com/users/atharvapathark)" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%E2%9C%93-5B5B5B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="40">
-  </a>
-  <a href="https://leetcode.com/u/atharvapatharkar6/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%E2%9C%93-F9C21B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40">
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/atharvapadahq/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%E2%9C%93-8B572A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40">
+  <a href="mailto:atharvapatharkar@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-1a1a1a?style=flat&logo=gmail&logoColor=white" alt="Email" height="40">
   </a>
 </p>
-
-
-
-
