@@ -1,6 +1,7 @@
   <!-- Profile Header -->
 <p align="center">
-  <img href="https://BG.jpg.png" alt="Header Image">
+
+  <img align="center" src="BG.jpg.png" alt="Python" height="300" width="1000" />
 </p>
 
 <h1 align="center">
@@ -158,15 +159,26 @@
 </p>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvapatharkar&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvapatharkar&layout=compact&theme=radical" alt="Top Languages">
-</p>
+
+  <div align="center" style="position: relative; padding: 20px; border-radius: 10px; overflow: hidden;">
+        <img src=" GitHub_Stats.jpg" alt="Background Image" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.2; z-index: -1;">
+        <p align="left">
+            <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" />
+        </p>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaPatharkar&theme=github" height="180em" alt="Stats" style="margin: 10px; border: 2px solid #007acc; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtharvaPatharkar&theme=github&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="margin: 10px; border: 2px solid #28a745; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvaPatharkar&theme=github&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="margin: 10px; border: 2px solid #ff6f61; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaPatharkar&theme=github&utcOffset=5.30" height="180em" alt="Time Graph" style="margin: 10px; border: 2px solid #ffc107; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
+    <br>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatharkar&theme=github" height="180em" alt="Commitments" style="margin: 10px; border: 2px solid #6f42c1; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
+    </div>
+
+
+
+    
 
 <!-- Contact -->
 ## 📫 Contact
