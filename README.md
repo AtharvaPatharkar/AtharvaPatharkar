@@ -12,6 +12,7 @@
   <a href="https://github.com/atharvapatharkar"><img src="https://img.shields.io/github/followers/atharvapatharkar?label=Followers&style=social"></a>
 </p>
 
+
 ## About Me
 <p align="center">
   <img src="Target.png" alt="Profile Image" style="border-radius: 15px; max-width: 100%; height: auto;">
@@ -19,6 +20,14 @@
 <p align="center">
   I'm a passionate developer and data scientist with a strong interest in creating web applications and diving into new technologies. With a background in both programming and data analysis, I strive to build efficient solutions and contribute to the open-source community. I am also a dedicated learner who enjoys sharing knowledge and collaborating with others. When I'm not coding, you can find me reading, exploring new places, or trying out innovative recipes. Currently, I'm focused on enhancing my skills in machine learning and exploring the potential of artificial intelligence. You can learn more about my work and projects on my <a href="https://atharvapatharkar.github.io/My-Portfolio/" target="_blank">portfolio website</a>.
 </p>
+
+<h3 align="center">My Interests</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Full+Stack+Development;Python+Development;Mobile+App+Development" alt="Typing SVG" />
+</p>
+
+
+
 
 <!-- Skills -->
 ## 🛠️ Technologies & Tools
@@ -123,6 +132,17 @@
         <p align="left">
             <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" />
         </p>
+    <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaPatharkar&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatharkar&hide_border=true&theme=transparent" /> 
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatharkar&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
+</div>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaPatharkar&theme=github" height="180em" alt="Stats" style="margin: 10px; border: 2px solid #007acc; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtharvaPatharkar&theme=github&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="margin: 10px; border: 2px solid #28a745; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvaPatharkar&theme=github&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="margin: 10px; border: 2px solid #ff6f61; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
