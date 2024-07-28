@@ -28,7 +28,6 @@
 
 
 
-
 <!-- Skills -->
 ## 🛠️ Technologies & Tools
 
@@ -132,24 +131,30 @@
         <p align="left">
             <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" />
         </p>
-    <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaPatharkar&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css" alt="Top Languages"/>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaPatharkar&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="AtharvaPatharkar" />
 </p>
 
-<p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatharkar&hide_border=true&theme=transparent" /> 
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatharkar&theme=gruvbox" alt="AtharvaPatharkar" />
 </p>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatharkar&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
 </div>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaPatharkar&theme=github" height="180em" alt="Stats" style="margin: 10px; border: 2px solid #007acc; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaPatharkar&theme=github" height="180em" alt="Stats" style="margin: 10px; border: 2px solid #007acc; border-radius: 10px; background-color: rgba(25, 5, 55, 0.8);"/>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtharvaPatharkar&theme=github&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="margin: 10px; border: 2px solid #28a745; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvaPatharkar&theme=github&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="margin: 10px; border: 2px solid #ff6f61; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaPatharkar&theme=github&utcOffset=5.30" height="180em" alt="Time Graph" style="margin: 10px; border: 2px solid #ffc107; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
     <br>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatharkar&theme=github" height="180em" alt="Commitments" style="margin: 10px; border: 2px solid #6f42c1; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
     </div>
+
+
+
+
 
 <!-- Contact -->
 ## 📫 Contact
