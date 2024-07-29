@@ -57,12 +57,15 @@
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-Web%20Technologies-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40">
+    <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" width="30" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS-Web%20Technologies-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40">
+    <img src="https://e7.pngegg.com/pngimages/66/60/png-clipart-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-thumbnail.png" width="30" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-Web%20Technologies-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="40">
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="50" height="50"/>
   </a>
 </p>
 
@@ -70,15 +73,18 @@
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-Programming%20Languages-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-Programming%20Languages-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">
+    
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-Programming%20Languages-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-Programming%20Languages-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="40">
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="50" height="50"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-Programming%20Languages-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40">
@@ -128,30 +134,32 @@
 <!-- GitHub Stats -->
 ## 📊 My GitHub Stats
   <div align="center" style="position: relative; padding: 20px; border-radius: 10px; overflow: hidden;">
-        <p align="left">
-            <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" />
-        </p>
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaPatharkar&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="AtharvaPatharkar" />
-</p>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" />
+    </p>
+    
+   <div align="center">
+     <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatharkar&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
+   </div>
 
+ <p align="center" style='margin: 8px 4px;'>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaPatharkar&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="AtharvaPatharkar" />
+ </p>
 
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatharkar&theme=gruvbox" alt="AtharvaPatharkar" />
-</p>
+  <p align="center" style='margin: 8px 4px;'>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatharkar&theme=gruvbox" alt="AtharvaPatharkar" />
+  </p>
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatharkar&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
-</div>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaPatharkar&theme=github" height="180em" alt="Stats" style="margin: 10px; border: 2px solid #007acc; border-radius: 10px; background-color: rgba(25, 5, 55, 0.8);"/>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtharvaPatharkar&theme=github&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="margin: 10px; border: 2px solid #28a745; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvaPatharkar&theme=github&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="margin: 10px; border: 2px solid #ff6f61; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaPatharkar&theme=github&utcOffset=5.30" height="180em" alt="Time Graph" style="margin: 10px; border: 2px solid #ffc107; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
-    <br>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatharkar&theme=github" height="180em" alt="Commitments" style="margin: 10px; border: 2px solid #6f42c1; border-radius: 10px; background-color: rgba(255, 255, 255, 0.8);"/>
+   <div align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaPatharkar&theme=aura" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvaPatharkar&theme=aura" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtharvaPatharkar&theme=aura" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaPatharkar&theme=aura&utcOffset=5.3" />
+        <br>      
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatharkar&theme=aura" />
     </div>
 
+</div>
 
 
 
