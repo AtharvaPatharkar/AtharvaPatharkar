@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img align="center" src="BG.jpg.png" alt="Python" height="300" width="1000" />
+  <img align="center" src="AtharvaPatharkar.gif" alt="Profile Header" height="300" width="1000" />
 </p>
 
 <h1 align="center">
