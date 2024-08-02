@@ -31,6 +31,8 @@
 <!-- Skills -->
 ## 🛠️ Technologies & Tools
 
+## 🛠️ Technologies & Tools
+
 ### 📊 Data Science & Analytics
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -67,20 +69,32 @@
     <img src="https://img.shields.io/badge/JavaScript-Web%20Technologies-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="40">
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="50" height="50"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-Web%20Technologies-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-Web%20Technologies-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://typescript".org/" target="_blank">
+     <a href="https://github.com/search?q=user%3Aishandutta2007+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  </a>
 </p>
 
 ### 💻 Programming Languages
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-Programming%20Languages-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-Programming%20Languages-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">
-    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-Programming%20Languages-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-Programming%20Languages-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="40">
@@ -88,6 +102,7 @@
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-Programming%20Languages-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   </a>
 </p>
 
@@ -95,6 +110,7 @@
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
 </p>
 
@@ -166,31 +182,31 @@
 
 <!-- Contact -->
 ## 📫 Contact
+
+## 📫 Contact
 <p align="center">
-  <a href="atharvapatharkar6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%E2%9C%93-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
+  <a href="mailto:atharvapatharkar6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%E2%9C%93-D14836?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" height="40">
   </a>
   <a href="https://www.linkedin.com/in/atharva-patharkar-6a462b260/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%E2%9C%93-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-%E2%9C%93-0077B5?style=for-the-badge&logo=linkedin&logoColor=yellow" alt="LinkedIn" height="40">
   </a>
-  <a href="https://github.com/atharvapatharkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%E2%9C%93-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
+  <a href="https://github.com/AtharvaPatharkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%E2%9C%93-181717?style=for-the-badge&logo=github&logoColor=green" alt="GitHub" height="40">
   </a>
   <a href="https://atharvapatharkar.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%E2%9C%93-4B8BBE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" height="40">
+    <img src="https://img.shields.io/badge/Website-%E2%9C%93-4B8BBE?style=for-the-badge&logo=google-chrome&logoColor=blue" alt="Website" height="40">
   </a>
   <a href="https://www.kaggle.com/apatharkar" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%E2%9C%93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40">
+    <img src="https://img.shields.io/badge/Kaggle-%E2%9C%93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=Fuchsia" alt="Kaggle" height="40">
   </a>
   <a href="https://www.codechef.com/users/atharvapathark" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%E2%9C%93-5B5B5B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="40">
+    <img src="https://img.shields.io/badge/CodeChef-%E2%9C%93-5B4638?style=for-the-badge&logo=codechef&logoColor=pink" alt="CodeChef" height="40">
   </a>
   <a href="https://leetcode.com/u/atharvapatharkar6/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%E2%9C%93-F9C21B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40">
+    <img src="https://img.shields.io/badge/LeetCode-%E2%9C%93-F9C21B?style=for-the-badge&logo=leetcode&logoColor=purple" alt="LeetCode" height="40">
   </a>
   <a href="https://www.geeksforgeeks.org/user/atharvapadahq/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%E2%9C%93-8B572A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%E2%9C%93-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=Pearl" alt="GeeksforGeeks" height="40">
   </a>
 </p>
-
-
