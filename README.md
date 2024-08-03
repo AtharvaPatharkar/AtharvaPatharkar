@@ -31,8 +31,6 @@
 <!-- Skills -->
 ## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Tools
-
 ### 📊 Data Science & Analytics
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -181,8 +179,6 @@
 
 
 <!-- Contact -->
-## 📫 Contact
-
 ## 📫 Contact
 <p align="center">
   <a href="mailto:atharvapatharkar6@gmail.com" target="_blank">
