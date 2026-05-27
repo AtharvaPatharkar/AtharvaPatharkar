@@ -12,7 +12,6 @@
   <a href="https://github.com/atharvapatharkar"><img src="https://img.shields.io/github/followers/atharvapatharkar?label=Followers&style=social"></a>
 </p>
 
-
 ## About Me
 <p align="center">
   <img src="Target.png" alt="Profile Image" style="border-radius: 15px; max-width: 100%; height: auto;">
@@ -25,8 +24,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Full+Stack+Development;Python+Development;Mobile+App+Development" alt="Typing SVG" />
 </p>
-
-
 
 <!-- Skills -->
 ## 🛠️ Technologies & Tools
@@ -149,7 +146,6 @@
   </a>
 </p>
 
-
 ### 💼 Non Technical
 <p align="center">
   <a href="#" target="_blank">
@@ -182,8 +178,6 @@
 
 ---
 
-
-
 <!-- GitHub Stats -->
 ## 📊 My GitHub Stats
   <div align="center" style="position: relative; padding: 20px; border-radius: 10px; overflow: hidden;">
@@ -191,8 +185,6 @@
         <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" />
     </p>
     
-
-
   <p align="center" style='margin: 8px 4px;'>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatharkar&theme=gruvbox" alt="AtharvaPatharkar" />
   </p>
@@ -205,26 +197,7 @@
         <br>      
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatharkar&theme=aura" />
     </div>
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- Contact -->
 ## 📫 Contact
