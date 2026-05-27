@@ -31,6 +31,18 @@
 <!-- Skills -->
 ## 🛠️ Technologies & Tools
 
+### 🤖 AI, Machine Learning & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" height="40">
+  <img src="https://img.shields.io/badge/LLM_Fundamentals-4CAF50?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" height="40">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40">
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="40">
+  </a>
+</p>
+
 ### 📊 Data Science & Analytics
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -80,7 +92,7 @@
   </a>
 </p>
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Backend
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-Programming%20Languages-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40">
@@ -102,6 +114,18 @@
     <img src="https://img.shields.io/badge/PHP-Programming%20Languages-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   </a>
+  
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="40">
+  </a>
+  <img src="https://img.shields.io/badge/Django_REST-FF1744?style=for-the-badge&logo=django&logoColor=white" alt="DRF" height="40">
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" height="40">
 </p>
 
 ### 🗄️ Database
@@ -125,6 +149,7 @@
   </a>
 </p>
 
+
 ### 💼 Non Technical
 <p align="center">
   <a href="#" target="_blank">
@@ -143,6 +168,20 @@
     <img src="https://img.shields.io/badge/Communication-Non%20Technical-00BCD4?style=for-the-badge&logo=communication&logoColor=white" alt="Communication" height="40">
   </a>
 </p>
+---
+
+## 💼 Experience & Projects
+
+### 🏢 Work Experience
+* [cite_start]**Full Stack Python Developer Intern** @ *Thundercube Private Limited, Pune* (Nov 2025 - Apr 2026) [cite: 22, 23]  
+  [cite_start]Worked on a *Fleet Management & Employee Tracking System*[cite: 23]. [cite_start]Developed role-based workflows, integrated JWT Authentication, and designed RESTful APIs using Django[cite: 24, 25, 26].
+
+### 🛠️ Featured Projects
+* [cite_start]**Marriage Hall Booking Website:** A scalable full-stack booking architecture built using Python, Django, DRF, and MySQL with secure CRUD operations and an admin dashboard[cite: 13, 14, 15, 17].
+* [cite_start]**Japa Tracker:** A responsive spiritual tracking application developed using Angular, HTML5, CSS3, and real-time Firebase handling[cite: 18, 19, 20].
+
+---
+
 
 
 <!-- GitHub Stats -->
@@ -152,13 +191,7 @@
         <img src="https://komarev.com/ghpvc/?username=atharvapatharkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatharkar" />
     </p>
     
-   <div align="center">
-     <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatharkar&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
-   </div>
 
- <p align="center" style='margin: 8px 4px;'>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaPatharkar&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="AtharvaPatharkar" />
- </p>
 
   <p align="center" style='margin: 8px 4px;'>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatharkar&theme=gruvbox" alt="AtharvaPatharkar" />
@@ -174,6 +207,21 @@
     </div>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
