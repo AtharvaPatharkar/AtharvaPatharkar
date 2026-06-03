@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/badge/Node.js-Web%20Technologies-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-  <a href="https://typescript".org/" target="_blank">
+  <a href="https://typescript.org/" target="_blank">
      <a href="https://github.com/search?q=user%3Aishandutta2007+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </a>
 </p>
@@ -169,12 +169,12 @@
 ## 💼 Experience & Projects
 
 ### 🏢 Work Experience
-* [cite_start]**Full Stack Python Developer Intern** @ *Thundercube Private Limited, Pune* (Nov 2025 - Apr 2026) [cite: 22, 23]  
-  [cite_start]Worked on a *Fleet Management & Employee Tracking System*[cite: 23]. [cite_start]Developed role-based workflows, integrated JWT Authentication, and designed RESTful APIs using Django[cite: 24, 25, 26].
+* **Full Stack Python Developer Intern** @ *Thundercube Private Limited, Pune* (Nov 2025 - Apr 2026)  
+  Worked on a *Fleet Management & Employee Tracking System*. Developed role-based workflows, integrated JWT Authentication, and designed RESTful APIs using Django.
 
 ### 🛠️ Featured Projects
-* [cite_start]**Marriage Hall Booking Website:** A scalable full-stack booking architecture built using Python, Django, DRF, and MySQL with secure CRUD operations and an admin dashboard[cite: 13, 14, 15, 17].
-* [cite_start]**Japa Tracker:** A responsive spiritual tracking application developed using Angular, HTML5, CSS3, and real-time Firebase handling[cite: 18, 19, 20].
+* **Marriage Hall Booking Website:** A scalable full-stack booking architecture built using Python, Django, DRF, and MySQL with secure CRUD operations and an admin dashboard.
+* **Japa Tracker:** A responsive spiritual tracking application developed using Angular, HTML5, CSS3, and real-time Firebase handling.
 
 ---
 
